@@ -23,7 +23,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/irrisdev/bin-collection/bincollection"
+	bincollection "github.com/irrisdev/bin-collection/"
 )
 
 func main() {
